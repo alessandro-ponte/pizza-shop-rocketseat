@@ -1,7 +1,7 @@
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import colors from 'tailwindcss/colors'
 
-import { ResponsiveContainer, Pie, PieChart, Tooltip, Cell } from 'recharts'
+import { ResponsiveContainer, Pie, PieChart, Cell } from 'recharts'
 import { BarChart } from 'lucide-react'
 
 const data = [
